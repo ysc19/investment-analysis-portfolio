@@ -48,3 +48,23 @@
 
 # \- Stock Valuation Models
 
+
+
+\## Project 1 – BlackRock Revenue Analysis
+
+
+
+\### Objective
+
+Analyze BlackRock's historical revenue growth to understand the company's business performance.
+
+
+
+\### Tools
+
+\- Python
+
+\- SQL
+
+\- Tableau (coming next)
+
